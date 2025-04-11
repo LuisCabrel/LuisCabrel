@@ -1,20 +1,12 @@
 <h1 align="center">👋 Hola soy <a href="https://github.com/LuisCabrel/LuisCabrel">Luis Cabrel<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<!-- <img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image"> -->
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+
   
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+## <h3 align="left">Hola 👋, Mi nombre es Luis, soy ingeniero de sistema. Tengo amplia experiencia trabajando en entornos ágiles en varios proyectos como ingeniero full stack, actualmente estoy desarrollando proyectos en distintos lenguajes de programación</h3>
 &emsp;
-<h3 align="left">Hola 👋, Mi nombre es Luis, soy ingeniero de sistema. Tengo amplia experiencia trabajando en entornos ágiles en varios proyectos como ingeniero full stack, actualmente estoy desarrollando proyectos en distintos lenguajes de programación</h3>
-&emsp; 
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<br/>
-  
-
-
- <h3 align="left">🛠️ My Skills</h3>
- 
+## 🛠️ My Skills
 
 ### Lenguajes de Programación:
 &emsp;
