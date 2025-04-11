@@ -1,9 +1,16 @@
 <h1 align="center">👋 Hola soy <a href="https://github.com/LuisCabrel/LuisCabrel">Luis Cabrel<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 <!-- <img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image"> -->
-<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
+<img align="left" width = 180px src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px>
   
-## <h3 align="left">Hola 👋, Mi nombre es Luis, soy ingeniero de sistema. Tengo amplia experiencia trabajando en entornos ágiles en varios proyectos como ingeniero full stack, actualmente estoy desarrollando proyectos en distintos lenguajes de programación</h3>
+<h3 align="left">Hola 👋, Mi nombre es Luis, soy Ingeniero de Sistema. Tengo amplia experiencia trabajando en entornos ágiles en varios proyectos como ingeniero full stack, actualmente estoy desarrollando proyectos en distintos lenguajes de programación.</h3>
+&emsp;
+
+### Popular Projects
+[![Alt text](https://img.youtube.com/vi/ztlAyPuSTas/0.jpg)](https://www.youtube.com/watch?v=ztlAyPuSTas)
+[![Alt text](https://img.youtube.com/vi/XYk8NsA4HFY/0.jpg)](https://www.youtube.com/watch?v=XYk8NsA4HFY)
+[![Alt text](https://img.youtube.com/vi/XoTeblvwuGI/0.jpg)](https://www.youtube.com/watch?v=XoTeblvwuGI)
+ 
 &emsp;
 
 ## 🛠️ My Skills
@@ -117,6 +124,10 @@
 
 
 &emsp;
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/LuisCabrel/LuisCabrel/blob/main/github-contribution-grid-snake.svg)
+
+<br/>
 <!--
 **LuisCabrel/LuisCabrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
