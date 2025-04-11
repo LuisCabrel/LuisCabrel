@@ -9,7 +9,7 @@
 ### Proyectos Destacados
 
 
-<table align="center">
+<table align="center" style="background:#000000">
 <tr>
   <td width="50%">
     <h3 align="center">BUSDRIVER </h3>
@@ -168,7 +168,12 @@
 
 &emsp;
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/LuisCabrel/LuisCabrel/blob/main/github-contribution-grid-snake.svg)
+## 📫 &nbsp;My Contacts
+
+[![LinkedIn](https://img.shields.io/badge/-LuisCabrel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-cabrel-ardian-91503b172/)](https://www.linkedin.com/in/luis-cabrel-ardian-91503b172/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-programadores.huacho@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:programadores.huacho@gmail.com)&nbsp;
+
+
 
 <br/>
 <!--
