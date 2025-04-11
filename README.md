@@ -6,10 +6,53 @@
 <h3 align="left">Hola 👋, Mi nombre es Luis, soy Ingeniero de Sistema. Tengo amplia experiencia trabajando en entornos ágiles en varios proyectos como ingeniero full stack, actualmente estoy desarrollando proyectos en distintos lenguajes de programación.</h3>
 &emsp;
 
-### Popular Projects
-[![Alt text](https://img.youtube.com/vi/ztlAyPuSTas/0.jpg)](https://www.youtube.com/watch?v=ztlAyPuSTas)
-[![Alt text](https://img.youtube.com/vi/XYk8NsA4HFY/0.jpg)](https://www.youtube.com/watch?v=XYk8NsA4HFY)
-[![Alt text](https://img.youtube.com/vi/XoTeblvwuGI/0.jpg)](https://www.youtube.com/watch?v=XoTeblvwuGI)
+### Proyectos Destacados
+
+
+<table align="center">
+<tr>
+  <td width="50%">
+    <h3 align="center">BUSDRIVER </h3>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=ztlAyPuSTas">
+       <img align="center" src="https://img.youtube.com/vi/ztlAyPuSTas/0.jpg" >
+      </a>      
+    </div>
+    <p>Sistema realizado para llevar control de las ventas de pasajes de buses</p>
+  </td>
+  <td width="50%">
+    <h3 align="center">VETCANINA </h3>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=XYk8NsA4HFY">
+       <img align="center" src="https://img.youtube.com/vi/XYk8NsA4HFY/0.jpg"  >        
+      </a>
+    </div>
+    <p>Sistema de control de citas de mascotas, para llevar un mejor control</p>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">PSICOADMIN </h3>
+    <div align="center" >
+      <a href="https://www.youtube.com/watch?v=XoTeblvwuGI">
+       <img align="center" src="https://img.youtube.com/vi/XoTeblvwuGI/0.jpg">
+      </a>
+    </div>
+    <p>Sistema realizado para llevar control de citas de cualquier negocio</p>
+  </td>
+  <td width="50%">
+    <h3 align="center">BUSESCOLAR </h3>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=KcFjcnE2usU">
+       <img align="center" src="https://img.youtube.com/vi/KcFjcnE2usU/0.jpg" >
+      </a>
+    </div>
+    <p>Sistema de buses, esta realizado para llevar el rastreo de los alumnos cuando se dirigen a la escuela</p>
+  </td>
+</tr>
+</table>
+
+<br/> 
  
 &emsp;
 
